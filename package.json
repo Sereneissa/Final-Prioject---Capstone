@@ -1,14 +1,16 @@
 {
-  "name": "WeatherApp-master",
+  "name": "Final-Prioject---Capstone",
   "version": "1.0.0",
-  "description": "UdacityWeatherApp Live view: https://sereneissa.github.io/WeatherApp-master/",
-  "main": "index.js",
+  "description": "UdacityWeatherApp Live view: https://github.com/Sereneissa/Final-Prioject---Capstone",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "cli": "^1.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "node-fetch": "^3.0.0",
-    "webpack": "^5.64.4"
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",

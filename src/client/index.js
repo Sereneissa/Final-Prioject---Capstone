@@ -1,4 +1,6 @@
-import {  getGeonameData } from './js/geonameData'
+import {  getGeonameData } from './js/geonameData';
+import {getDate,timeUp} from './js/countdown';
+
  
 console.log(checkForName,);
 
@@ -10,4 +12,6 @@ import './styles/style.scss'
 
 export {
     getGeonameData,
+    getDate, timeUp,
+
    }
